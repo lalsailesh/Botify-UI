@@ -31,14 +31,7 @@ own Botify UI forks, kind of like Uniswap.
 * 📈 **Trendy**: The GPT store is still in the back of everyones minds, this will 
 be a concept many will understand.
 
-## Try it out 
-If the vercel link does not work you will need to run the UI locally.
 
-```
-git clone https://github.com/iaincollins/nextjs-starter.git
-npm install
-npm run dev
-```
 
 ## Licence
 Distributed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license. See License for more information.
